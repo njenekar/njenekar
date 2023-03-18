@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @njenekar
 - 👀 I’m interested in exploring new technologies.
-- 🌱 I’m currently learning different js framework like REACT, Microservices patterns, Azure architecture.
+- 🌱 I’m currently learning different js framework like REACT. Working on Microservices patterns, Azure architecture, .Net Core APIs
 
 
 <!---
